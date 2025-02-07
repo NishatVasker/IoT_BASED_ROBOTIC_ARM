@@ -99,7 +99,7 @@ https://github.com/user-attachments/assets/a5e21342-d928-4119-9817-23136feeff85
 
 
 ## 📜 **License**
-This project is **open-source** under the **MIT License**.
+This project is **open-source** under the **MIT License**.NB: Wihtout my permission no one can change or use it.
 
 👨‍💻 **Developed by:** [Nishat Vasker]  
 📧 **Contact:** nishatvasker@gmail.com  
