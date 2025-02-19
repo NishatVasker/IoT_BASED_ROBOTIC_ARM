@@ -1,11 +1,11 @@
-# 🤖 BCI_ROBOTIC_ARM
+# 🤖 IOT_BASED_ROBOTIC_ARM
 
 ![WhatsApp Image 2025-02-07 at 08 25 51_d32b072f](https://github.com/user-attachments/assets/4d3cea2c-ab10-4084-9d26-85b06a7d9729)
 
 *A Brain-Controlled Interface (BCI) based robotic arm using ESP8266 & PCA9685.*
 
 ## 🚀 **Project Overview**
-BCI_ROBOTIC_ARM is a **WiFi-controlled robotic arm** designed to function using **brain-computer interface (BCI) signals**. It integrates an **ESP8266 microcontroller**, a **PCA9685 PWM driver**, and **three MG996R servo motors** for precise motion control.
+IOT_BASED_ROBOTIC_ARM is a **WiFi-controlled robotic arm** designed to function using **brain-computer interface (BCI) signals**. It integrates an **ESP8266 microcontroller**, a **PCA9685 PWM driver**, and **three MG996R servo motors** for precise motion control.
 
 Users can **control the robotic arm via a web interface**, allowing directional movements:  
 ➡ **Left, Right, Up, Down, and Reset**  
